@@ -682,3 +682,12 @@ Microsoft.EntityFrameworkCore.Design 8.0.10 · Microsoft.AspNetCore.Authenticati
 
 *SE3090 — Software Engineering Frameworks · Department of Software Engineering · Faculty of
 Computing, SLIIT*
+
+
+## Project Technology
+
+- C#
+- .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL
