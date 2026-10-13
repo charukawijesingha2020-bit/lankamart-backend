@@ -1,4 +1,5 @@
 # SE3090 — Lecture 04 Demo Project
+
 ## LankaMart: Database Design, Authentication, Authorization and Integration
 
 This is the working code behind Lecture 04. It is the **same LankaMart API you met in
