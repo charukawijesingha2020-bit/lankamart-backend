@@ -1983,6 +1983,7 @@
                   "pm.test(\"the same password produced different hashes\", function () {",
                   "    pm.expect(pm.response.json().identical).to.be.false;",
                   "});"
+                  
                 ]
               }
             }
